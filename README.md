@@ -78,7 +78,7 @@ ENDTOENDMLPROJECT/
 ---
 
 ## Results
-- **Accuracy:** Achieved an accuracy of **[mention percentage]** on the test dataset.
+- **Accuracy:** Achieved an accuracy of **[88%]** on the test dataset.
 - **Insights:** [Highlight one or two interesting findings from EDA or model performance.]
 
 ---
@@ -102,12 +102,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ---
 
-## License
-This project is licensed under the MIT License.
-
----
-
 ## Contact
 For inquiries or feedback, contact me at:
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [Your GitHub Profile](https://github.com/your_username)
+- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/farhaan-qazi/])
