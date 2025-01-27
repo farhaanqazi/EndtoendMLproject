@@ -2,7 +2,7 @@
 # End-to-End Machine Learning Project
 
 ## Overview
-This repository contains a fully functional end-to-end machine learning project that solves a **[brief project description, e.g., "student performance prediction"]** problem. The project showcases the complete pipeline from **data preprocessing** to **model training, evaluation, and deployment as a web application**.
+This repository contains a fully functional end-to-end machine learning project that solves a **["student performance prediction"]** problem. The project showcases the complete pipeline from **data preprocessing** to **model training, evaluation, and deployment as a web application**.
 
 ### Key Highlights
 - **Exploratory Data Analysis (EDA):** Insightful visualizations and statistical analysis of the dataset.
