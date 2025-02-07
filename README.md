@@ -92,11 +92,6 @@ ENDTOENDMLPROJECT/
 
 ---
 
-## Screenshots
-(Add screenshots of the web app, EDA, etc., if possible.)
-
----
-
 ## Contribution
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
