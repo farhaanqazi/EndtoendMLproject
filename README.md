@@ -95,8 +95,7 @@ ENDTOENDMLPROJECT/
 ## Screenshots
 (Add screenshots of the web app, EDA, etc., if possible.)
 
----![321](https://github.com/user-attachments/assets/69b0b76b-ab56-40eb-a62e-ebf74bd60c09)
-
+---
 
 ## Contribution
 Contributions are welcome! Feel free to open an issue or submit a pull request.
